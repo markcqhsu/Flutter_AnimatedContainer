@@ -1,17 +1,5 @@
-# flutter_animation_0528
+# Flutter 动画教程 1-1 两行代码就能动起来
 
-A new Flutter project.
+教學網址:https://www.bilibili.com/video/BV1JZ4y1p7NG
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_AnimatedContainer
+除了動畫觀念外,還教學了AnimatedContainer以及decoration的使用.
